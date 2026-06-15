@@ -1,0 +1,34 @@
+{
+  "value": [
+    {
+      "@search.action": "upload",
+      "id": "436524",
+      "title": "Sunflowers",
+      "artist": "Vincent van Gogh",
+      "objectDate": "1887",
+      "department": "European Paintings",
+      "description": "Sunflowers is a still-life painting by Vincent van Gogh. It depicts sunflowers arranged in a vase and belongs to The Metropolitan Museum of Art collection.",
+      "source": "https://www.metmuseum.org/art/collection/search/436524"
+    },
+    {
+      "@search.action": "upload",
+      "id": "437881",
+      "title": "Young Woman with a Water Pitcher",
+      "artist": "Johannes Vermeer",
+      "objectDate": "ca. 1662",
+      "department": "European Paintings",
+      "description": "Young Woman with a Water Pitcher is a painting by Johannes Vermeer. It shows a young woman holding a water pitcher and reflects Vermeer's interest in light, balance, and domestic interior scenes.",
+      "source": "https://www.metmuseum.org/art/collection/search/437881"
+    },
+    {
+      "@search.action": "upload",
+      "id": "437980",
+      "title": "Cypresses",
+      "artist": "Vincent van Gogh",
+      "objectDate": "1889",
+      "department": "European Paintings",
+      "description": "Cypresses is a painting by Vincent van Gogh. It shows tall cypress trees and demonstrates the expressive brushwork and intense color associated with his late landscapes.",
+      "source": "https://www.metmuseum.org/art/collection/search/437980"
+    }
+  ]
+}
